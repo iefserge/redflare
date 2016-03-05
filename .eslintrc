@@ -1,0 +1,8 @@
+extends:
+  - runtime
+
+globals:
+  __STATIC_ASSERT: false
+  __BOOLEAN__: false
+  __NUMBER__: false
+  __STRING__: false
