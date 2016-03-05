@@ -1,4 +1,4 @@
-# Redflare
+# Redflare [![Build Status](https://travis-ci.org/iefserge/redflare.svg?branch=master)](https://travis-ci.org/iefserge/redflare)
 
 Experimental early work-in-progress JavaScript static analyzer tool.
 
